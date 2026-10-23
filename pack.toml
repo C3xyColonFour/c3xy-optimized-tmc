@@ -1,13 +1,13 @@
 name = "C3xy's Optimized TMC"
-author = "C3xy"
-version = "1.0.0"
+author = "C3xyColonFour"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2060557029d9749dd3f9c1eafd67748f742f0a22c035fd8adc5ee4c11597b752"
+hash = "53123d743896ba0f7e16b74debf480b0d2a26f9d01c229a67f7df01760c2bbb6"
 
 [versions]
-fabric = "0.19.5"
-minecraft = "26.2"
+fabric = "0.20.1"
+minecraft = "26.3"
