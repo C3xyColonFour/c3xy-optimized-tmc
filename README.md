@@ -2,15 +2,13 @@
 
 My own custom tailored Minecraft modpack built for TMC and casual survival.
 
-## To-do
+## Downloads
 
-| Item | Progress |
-|:----|:---------:|
-| idk... | 🟨 |
+[Modrinth](https://modrinth.com/modpack/c3xys-optimized-tmc/versions)
+[GitHub](https://github.com/C3xyColonFour/c3xy-optimized-tmc/releases)
 
 ## Mods
-<details>
-<summary>Click to expand</summary>
+<details><summary>Click to expand</summary>
 
 - 3D Skin Layers
 - AppleSkin
@@ -48,8 +46,7 @@ My own custom tailored Minecraft modpack built for TMC and casual survival.
 
 ## Resource & Shader Packs
 
-<details>
-<summary>Click to expand</summary>
+<details><summary>Click to expand</summary>
 
 - Redstone Tweaks
 - Unique Dark - Lite
