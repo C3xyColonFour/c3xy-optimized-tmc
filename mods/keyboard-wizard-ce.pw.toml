@@ -1,0 +1,13 @@
+name = "Keyboard Wizard CE"
+filename = "keyboard-wizard-ce-fabric-26.3-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K9lejUXc/versions/nti7tzsH/keyboard-wizard-ce-fabric-26.3-1.0.0.jar"
+hash-format = "sha512"
+hash = "5133f4159d558e1c7ca4e77a771cdc1655e3c8f1fdfb14d204b9ddbc325f028ac1f61613b483dfadbc257823ed30ca9281538082cb9caf9f13280468f6049dd9"
+
+[update]
+[update.modrinth]
+mod-id = "K9lejUXc"
+version = "nti7tzsH"

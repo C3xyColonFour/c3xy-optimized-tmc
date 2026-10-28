@@ -1,10 +1,12 @@
 # C3xy's Optimized TMC
+
 My own custom tailored Minecraft modpack built for TMC and casual survival.
 
 ## To-do
+
 | Item | Progress |
 |:----|:---------:|
-| Config via YOSBR | 🟨 |
+| idk... | 🟨 |
 
 ## Mods
 <details>
@@ -24,6 +26,7 @@ My own custom tailored Minecraft modpack built for TMC and casual survival.
 - ImmediatelyFast
 - Iris Shaders
 - Ixeris
+- Keyboard Wizard
 - LambDynamicLights - Dynamic Lights
 - Litematica
 - Lithium
@@ -37,14 +40,14 @@ My own custom tailored Minecraft modpack built for TMC and casual survival.
 - voxy
 - Voxy WorldGen
 - WorldEdit
-- Xaero's Minimap
-- Your Options Shall Be Respected (YOSBR)
+- Xaero's World Map
 
- \+ Dependencies 
+ \+ Dependencies
 
 </details>
 
 ## Resource & Shader Packs
+
 <details>
 <summary>Click to expand</summary>
 

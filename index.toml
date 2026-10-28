@@ -89,6 +89,11 @@ hash = "1aed8e425e3ba52c904c6fc928642932d148db140f788a204dfd828292b16f19"
 metafile = true
 
 [[files]]
+file = "mods/keyboard-wizard-ce.pw.toml"
+hash = "b4fa62a2dd7084140cb58ec73624fc0a749e52a5d8d18dc2bf27cf85bcc69b01"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
 metafile = true
@@ -174,13 +179,8 @@ hash = "7a5c3bfa2b6572c8e2d859e77798fdad5c69bdc027e4040d4f98f53e812875a5"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "0ddbddb0f93319bb51f4a0d2e1419d587609b152d5e953ef058fb68c9f3d4089"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1d78fecab0f34708540335a8e8f71d7c271facf0a018f2c10fbedc82e7d6d8df"
 metafile = true
 
 [[files]]
